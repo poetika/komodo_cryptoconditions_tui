@@ -5,7 +5,7 @@
 This program was created for demonstration and partial automation of Komodo GatewaysCC stack testing. (AssetsCC, OraclesCC, GatewaysCC, oraclesfeed dAPP)
 
 Python3 and pip3 required for execution:
-*  `sudo apt-get install python3.6 python3-pip`
+*  `sudo apt-get install python3.6 python3-pip libgnutls28-dev`
 
 pip packages needed:
 * `pip3 install setuptools wheel slick-bitcoinrpc`
